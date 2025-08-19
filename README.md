@@ -1,5 +1,5 @@
 # email-scraper
-Email Scraper
+
 A Python tool to scrape emails from websites by bruteforcing URLs.  
 It uses `requests` and `BeautifulSoup` to find mailto links, and displays results in a terminal.
 
