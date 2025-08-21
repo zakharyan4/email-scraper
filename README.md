@@ -12,6 +12,6 @@ It uses `requests` and `BeautifulSoup` to find mailto links, and displays result
 ## Installation
 
 bash
-git clone https://github.com/yourusername/email-scraper.git
+git clone https://github.com/zakharyan4/email-scraper.git
 cd email-scraper
 pip install -r requirements.txt
